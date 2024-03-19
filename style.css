@@ -1,0 +1,147 @@
+#heading{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+body{
+  
+}
+
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #e65b85;
+}
+
+#SchoolName{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffa3b1;
+  font-size: 30px;
+}
+
+h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #e65b85;
+  font-size: 30px;
+}
+
+h3{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffccdb;
+  font-size: 17px;
+}
+
+h4{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #fdb4ca;
+  font-size: 20px;
+}
+
+h5{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #fbacc4;
+  font-size: 20px;
+}
+
+h6{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffc7cf;
+  font-size: 15px;
+}
+
+p{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffdbeb;
+  font-size: 18px;
+}
+
+#lesson1{
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 400px;
+}
+
+#lesson2{
+  text-align: right;
+  margin-right: 300px;
+  margin-left: 400px;
+}
+
+#lesson3{
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 400px;
+}
+  
+#lesson4{
+  text-align: right;
+  margin-right: 300px;
+  margin-left: 400px;
+}
+
+#lesson5{
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 400px;
+}
+
+#lesson6{
+  text-align: right;
+  margin-right: 300px;
+  margin-left: 400px;
+}
+
+#lesson7{
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 400px;
+}
+
+#lesson8{
+  text-align: right;
+  margin-right: 300px;
+  margin-left: 400px;
+}
+
+#lesson9{
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 400px;
+}
+
+#lesson10{
+  text-align: right;
+  margin-right: 300px;
+  margin-left: 400px;
+}
+
+#linknextpage{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #e65b85;
+  font-size: 10px;
+  text-align: center;
+}
+
+#codescreens{
+  width: 300px;
+  border: 1px solid #e14c62;
+  margin-right: 300px;
+}
+
+#screenplanned{
+  width: 400px;
+  border: 1px solid #e14c62;
+}
+
+#codesubtitle{
+  margin-left: 120px;
+}
+
+#appsubtitle{
+  margin-left: 320px;
+}
+
+#app{
+  position: absolute;
+  right: 100px;
+  top: 600px;
+}
